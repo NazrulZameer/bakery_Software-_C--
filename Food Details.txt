@@ -1,0 +1,10 @@
+4	appleJuice	100
+6	Bun	30
+0	bread	80
+112	Butter	0
+123	jam	0	
+8	Sandwhich	150
+5	Burger		300
+7	Milk	60
+12	Biscuits	100
+1	Bun	50
